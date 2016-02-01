@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Service Checker Beta</string>
+    <string name="ip">Ip address</string>
+    <string name="button">Scan</string>
+    <string name="echo">ECHO SERVICE</string>
+    <string name="ftp_data">FTP DATA</string>
+    <string name="ftp_control">FTP CONTROL</string>
+    <string name="ssh">SSH</string>
+    <string name="telnet">TELNET</string>
+    <string name="smtp">SMTP</string>
+    <string name="dns">DNS</string>
+    <string name="finger">FINGER</string>
+    <string name="http">HTTP</string>
+    <string name="rip">RIP</string>
+    <string name="sql_server">MySQL SERVER</string>
+    <string name="ldap">LDAP</string>
+    <string name="https">HTTPS</string>
+    <string name="dhcp">DHCP</string>
+    <string name="btn_close_popup">EXIT</string>
+</resources>
